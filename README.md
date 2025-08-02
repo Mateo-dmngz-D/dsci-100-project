@@ -1,7 +1,5 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project
 
-Espero tener una buena idea para este proyecto.
+Project repository for DSCI-100.
 
-
-¡Maldita sea!, no se cómo actualizar este archivo :( .
+I analyze the characteristics of Minecraft players of a server set up by UBC researchers to determine whether a player will subscribe to a game-related newsletter and what predictors are more effective.
